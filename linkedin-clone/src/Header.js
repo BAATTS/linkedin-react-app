@@ -7,7 +7,6 @@ import SupervisorAccountIcon from '@mui/icons-material/SupervisorAccount';
 import BusinessCenterIcon from '@mui/icons-material/BusinessCenter';
 import ChatIcon from '@mui/icons-material/Chat';
 import NotificationIcon from '@mui/icons-material/Notifications';
-import AccountCircleIcon from '@mui/icons-material/AccountCircle';
 
 function Header() {
     return (
@@ -28,7 +27,7 @@ function Header() {
                 <HeaderOption Icon={BusinessCenterIcon} title='Jobs'/>
                 <HeaderOption Icon={ChatIcon} title='Chat'/>
                 <HeaderOption Icon={NotificationIcon} title='Notifications'/>
-                <HeaderOption Icon={AccountCircleIcon} title='Account'/>
+                <HeaderOption Avatar='I:\linkedin_clone\linkedin-clone\src\test.jpg' title='me'/>
 
 
             </div>
