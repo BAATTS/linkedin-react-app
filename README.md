@@ -1,5 +1,5 @@
 # Linkedin React App
-The aim for this project is to create the Linkedin page.
+The aim for this project is to recreate the Linkedin homepage
 
 ## Technologies 
 - JavaScript
